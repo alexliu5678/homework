@@ -4,4 +4,4 @@
 2: java version 1.8.0_333-b02 <br>
 3: install and run docker desktop with window <br>
 4: please check Expose daemon on tcp://localhost:2375 without TLS whether or not is right <br>
-
+5: execute run.bat and open http://localhost:8088/swagger-ui.html  <br>
